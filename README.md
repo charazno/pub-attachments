@@ -1,0 +1,2 @@
+# pub-attachments
+public attachments
